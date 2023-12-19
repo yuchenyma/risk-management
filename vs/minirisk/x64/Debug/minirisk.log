@@ -1,0 +1,20 @@
+﻿  CurveDiscount.cpp
+C:\Users\Administrator\Desktop\minirisk-students-2\minirisk-students-2\src\CurveDiscount.cpp(22,9): warning C4018: “>”: 有符号/无符号不匹配
+  CurveFXForward.cpp
+  CurveFXSpot.cpp
+  Date.cpp
+C:\Users\Administrator\Desktop\minirisk-students-2\minirisk-students-2\src\Date.cpp(59,13): warning C4244: “初始化”: 从“ptrdiff_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Desktop\minirisk-students-2\minirisk-students-2\src\Date.cpp(67,13): warning C4244: “初始化”: 从“ptrdiff_t”转换到“unsigned int”，可能丢失数据
+  DemoRisk.cpp
+  FixingDataServer.cpp
+  Global.cpp
+  Market.cpp
+  MarketDataServer.cpp
+  PortfolioUtils.cpp
+  PricerFXForward.cpp
+  PricerPayment.cpp
+  TradeFXForward.cpp
+  TradeGuids.cpp
+  TradePayment.cpp
+  正在生成代码...
+  minirisk.vcxproj -> C:\Users\Administrator\Desktop\minirisk-students-2\minirisk-students-2\vs\x64\Debug\minirisk.exe
